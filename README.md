@@ -1,7 +1,7 @@
 # PHP Text Shuffler Lib
 
 > Original Repos:   
-> - PHP Text Shuffler Lib: https://github.com/a19836/phptextshufflerlib/   
+> - PHP Text Shuffler Lib: https://github.com/a19836/php-text-shuffler-lib/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
